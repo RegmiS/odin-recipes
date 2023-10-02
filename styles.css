@@ -2,3 +2,7 @@
     font-weight: bold;
     font-size: medium;
 }
+
+body {
+    font-family: sans-serif, serif;
+}
