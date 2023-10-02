@@ -1,8 +1,36 @@
 .link {
     font-weight: bold;
-    font-size: medium;
 }
 
 body {
     font-family: sans-serif, serif;
+}
+
+div {
+    text-align: center;
+    display: block;
+}
+
+h1 {
+    background-color: pink;
+}
+
+.list-div {
+    background-color: bisque;
+}
+
+.list {
+    margin-top: -1px;
+    margin-left: -1px;
+    list-style: none;
+    padding: 8px 24px;
+}
+
+.item {
+    /*border: 2px solid red; */
+    font-size: 25px; 
+}
+
+li {
+    margin-bottom: 15px;
 }
