@@ -4,3 +4,4 @@ site that has various recipes, built using raw HTML
 
 Following the project instructions from the [site](https://www.theodinproject.com/lessons/foundations-recipes)
 
+## Project livepage [here](https://regmis.github.io/odin-recipes/)
